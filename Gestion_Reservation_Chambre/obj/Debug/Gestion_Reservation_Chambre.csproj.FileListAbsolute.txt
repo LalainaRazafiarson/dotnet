@@ -1,0 +1,110 @@
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe.config
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.pdb
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csprojResolveAssemblyReference.cache
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.loading.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Login.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Properties.Resources.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csproj.GenerateResource.Cache
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.exe
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.pdb
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.MENU.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CLIENT.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL.mdf
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL_log.ldf
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Receptionniste.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CHAMBRE.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECLIENT.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.RESERVATION.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRECEP.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECHAMBRE.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Ticket.resources
+D:\BOSSY\L2 DA21\Projet Fin d'annes\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRESERVATION.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe.config
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL.mdf
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL_log.ldf
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csprojResolveAssemblyReference.cache
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CHAMBRE.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CLIENT.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.loading.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECHAMBRE.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECLIENT.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRECEP.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRESERVATION.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Login.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.MENU.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Properties.Resources.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Receptionniste.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.RESERVATION.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Ticket.resources
+C:\Users\RAFAJ\Desktop\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csproj.GenerateResource.Cache
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe.config
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL.mdf
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL_log.ldf
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csprojResolveAssemblyReference.cache
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CHAMBRE.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CLIENT.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.loading.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECHAMBRE.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECLIENT.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRECEP.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRESERVATION.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Login.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.MENU.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Properties.Resources.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Receptionniste.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.RESERVATION.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Ticket.resources
+C:\Users\Ronie\Downloads\Programs\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csproj.GenerateResource.Cache
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe.config
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL.mdf
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\HOTEL_log.ldf
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csprojResolveAssemblyReference.cache
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CHAMBRE.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CLIENT.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.loading.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECHAMBRE.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECLIENT.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRECEP.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRESERVATION.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Login.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.MENU.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Properties.Resources.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Receptionniste.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.RESERVATION.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Ticket.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csproj.GenerateResource.Cache
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe.config
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\bin\Debug\HOTEL.mdf
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\bin\Debug\HOTEL_log.ldf
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.exe
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\bin\Debug\Gestion_Reservation_Chambre.pdb
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csprojResolveAssemblyReference.cache
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CHAMBRE.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.CLIENT.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.loading.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECHAMBRE.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTECLIENT.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRECEP.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.LISTESRESERVATION.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Login.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.MENU.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Properties.Resources.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Receptionniste.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.RESERVATION.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.Ticket.resources
+C:\Users\Ronie\Desktop\DA2I L2 EMIT\C#\C#\C#\Gestion_Reservation_Chambre - Copie\Gestion_Reservation_Chambre\obj\Debug\Gestion_Reservation_Chambre.csproj.GenerateResource.Cache
